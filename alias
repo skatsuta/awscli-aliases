@@ -138,3 +138,5 @@ revoke-my-ip-all =
 cfn = cloudformation
 
 eb = elasticbeanstalk
+
+ec = elasticache
