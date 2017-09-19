@@ -140,3 +140,5 @@ cfn = cloudformation
 eb = elasticbeanstalk
 
 ec = elasticache
+
+as = autoscaling
