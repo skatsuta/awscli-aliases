@@ -142,3 +142,5 @@ eb = elasticbeanstalk
 ec = elasticache
 
 as = autoscaling
+
+sc = servicecatalog
