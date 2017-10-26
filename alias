@@ -135,12 +135,14 @@ revoke-my-ip-all =
     aws revoke-my-ip ${1} all all
   }; f
 
+as = autoscaling
+
 cfn = cloudformation
+
+cp = codepipeline
 
 eb = elasticbeanstalk
 
 ec = elasticache
-
-as = autoscaling
 
 sc = servicecatalog
