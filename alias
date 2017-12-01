@@ -135,6 +135,8 @@ revoke-my-ip-all =
     aws revoke-my-ip ${1} all all
   }; f
 
+ag = apigateway
+
 as = autoscaling
 
 cfn = cloudformation
