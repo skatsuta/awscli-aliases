@@ -143,6 +143,8 @@ cfn = cloudformation
 
 cp = codepipeline
 
+ddb = dynamodb
+
 eb = elasticbeanstalk
 
 ec = elasticache
